@@ -3,7 +3,7 @@
 
 <!-- Badges generated with: https://michaelcurrin.github.io/badge-generator/ -->
 
-[![Node CI](https://github.com/MichaelCurrin/node-project-template/workflows/Node%20CI/badge.svg)](https://github.com/MichaelCurrin/node-project-template/actions?query=workflow:"Node+CI")
+[![Node CI](https://github.com/tresnax/node-project-template/workflows/Node%20CI/badge.svg)](https://github.com/tresnax/node-project-template/actions?query=workflow:"Node+CI")
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/node-project-template)](https://github.com/MichaelCurrin/node-project-template/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
